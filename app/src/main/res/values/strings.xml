@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RickAndMortyMVI</string>
+    <string name="bir_hata_olustu">Bir hata oluştu, lütfen daha sonra tekrar deneyiniz.</string>
+    <string name="hata">Hata!</string>
+</resources>
